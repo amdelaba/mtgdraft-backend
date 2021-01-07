@@ -1,0 +1,19 @@
+{
+  "name": "mtgdraft-backend",
+  "version": "1.0.0",
+  "description": "MTG Draft App backend built using Node, Express and Mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amdelaba/mtgdraft-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amdelaba/mtgdraft-backend/issues"
+  },
+  "homepage": "https://github.com/amdelaba/mtgdraft-backend#readme"
+}
